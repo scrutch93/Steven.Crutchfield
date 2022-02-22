@@ -28,6 +28,20 @@
   overflow: hidden;
 }
 
+
+.children {
+  width: 300px;
+  height: 300px;
+  border-radius: 7%;
+  border: 6px solid #444;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+
 img {
   max-width: inherit;
   max-height: inherit;
